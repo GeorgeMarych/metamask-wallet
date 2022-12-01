@@ -1,4 +1,4 @@
-# Connectin React app to metamask wallet
+# Connecting React app to metamask wallet
 
 this project is for practice purpose only.
 
